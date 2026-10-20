@@ -85,8 +85,8 @@ h1 { max-width: 650px; margin-bottom: 18px; font-size: clamp(40px, 5vw, 62px); l
 .support-inner > div:first-child > p:last-child { max-width: 520px; margin-bottom: 0; color: var(--muted); font-size: 14px; }
 .contact-box { padding: 22px 24px; border: 1px solid #d2e2f0; border-radius: 11px; background: var(--white); }
 .contact-label { display: block; margin-bottom: 7px; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: .14em; }
-.placeholder-email, .inline-placeholder { color: var(--blue); font-weight: 750; overflow-wrap: anywhere; }
-.placeholder-note { display: block; margin-top: 8px; color: #78899a; font-size: 11px; line-height: 1.5; }
+.contact-email, .inline-email { color: var(--blue); font-weight: 750; overflow-wrap: anywhere; }
+.contact-note { display: block; margin-top: 8px; color: #78899a; font-size: 11px; line-height: 1.5; }
 .site-footer { background: var(--navy-deep); color: #aebfd0; }
 .footer-inner { min-height: 82px; justify-content: space-between; gap: 22px; }
 .footer-brand { color: var(--white); font-size: 15px; }

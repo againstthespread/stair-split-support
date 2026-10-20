@@ -10,7 +10,7 @@ Lightweight static support and privacy pages for the StairSplit iPhone app. The 
 
 ## Before publishing
 
-Replace `REPLACE_WITH_SUPPORT_EMAIL` in `index.html` and `privacy.html` with a monitored support address. The app is described as a $2.99 one-time App Store purchase.
+The support address is [stairsplitsupport@gmail.com](mailto:stairsplitsupport@gmail.com). The app is described as a $2.99 one-time App Store purchase.
 
 The privacy page reflects the current iOS app implementation reviewed for this site: workouts and settings are saved in local app storage; the app code has no network, analytics, or advertising integrations. Review the policy again if app data handling changes.
 
